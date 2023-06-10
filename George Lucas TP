@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main id="main">
+    
+  <h1 id="title">George Lucas</h1>
+  <h3>The man who created an amazing galaxy</h3>
+  <div class="container">
+  <figure id="img-div">
+    <img id="image" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/George_Lucas_cropped_2009.jpg" alt="georgelucas" />
+    <figcaption id="img-caption">George Walton Lucas Jr.(born May 14, 1944) is an American film director, producer, screenwriter, and entrepreneur. Lucas is best known for creating the Star Wars and Indiana Jones franchises and founding Lucasfilm, LucasArts, and Industrial Light & Magic. He served as chairman of Lucasfilm before selling it to The Walt Disney Company in 2012.</figcaption>
+  </figure>
+  <section id="tribute-info"><p>George Lucas is one of history's most financially successful filmmakers and has been nominated for four Academy Awards. His films are among the 100 highest-grossing movies at the North American box office, adjusted for ticket-price inflation. Lucas is considered one of the most significant figures of the 20th-century New Hollywood movement, and a pioneer of the modern blockbuster.</p>
+        <a href="https://www.youtube.com/embed/vU6L3jXt2r8" id="tribute-link" target="_blank">George Luca's most popular film</a>
+    </section>
+  </div>
+</main>
